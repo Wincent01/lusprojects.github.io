@@ -1,8 +1,8 @@
 ---
 name: Uchū
-status: Active Development
+status: Active
 language: C#
 desc: LEGO Universe server written in C#
-links: [['GitHub', 'https://github.com/yuwui/Uchu', 'fab fa-github']]
-devs: yuwui, Wincent01, Brickmick
+links: [['GitHub', 'https://github.com/UchuServer/Uchu', 'fab fa-github'], ['Community Discord', 'https://discord.gg/EFuTB8XZSV', 'fab fa-discord'], ['Development Discord', 'https://discord.gg/7nDeT8Gsps', 'fab fa-discord']]
+devs: Mick, Encry, zaop
 ---
